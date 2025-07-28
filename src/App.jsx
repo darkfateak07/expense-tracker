@@ -1,5 +1,5 @@
 import Counter from './components/Counter'
-import ExpenseContainer from './components/expense-container'
+import ExpenseContainer from './components/Expense-container'
 
 const App=()=> {
   return (
